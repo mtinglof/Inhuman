@@ -1,0 +1,48 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+body{
+    background-color: black; 
+}
+
+div.title{
+    color: white; 
+    position: absolute;
+    top: 20%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+
+div.options{
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+
+#disclaim{
+    position: absolute;
+    top: 95%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+
+.kickstart-link{
+    color: #f1a1a1; 
+}
+
+a.kickstart-link:hover{
+    color: #a7f2a2; 
+}
+
+div#penalty-board{ 
+    position: absolute; 
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    height: 400px; 
+    width: 100%; 
+    display: none; 
+}
+
+div.penalty-card{
+    background-color: #e8e8e8; 
+}

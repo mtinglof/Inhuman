@@ -1,0 +1,49 @@
+Human -- You have nothing to hide -- Answer questions to the best of your ability 
+Human -- You have nothing to hide -- Answer questions to the best of your ability 
+Human -- You have nothing to hide -- Answer questions to the best of your ability 
+Human -- You have nothing to hide -- Answer questions to the best of your ability 
+Human -- You have nothing to hide -- Answer questions to the best of your ability 
+Human -- You have nothing to hide -- Answer questions to the best of your ability 
+Violent Robot -- OBSESSION ANIMALS -- *Mention an animal in response to 3 different questions *Make an animal noise. (If this completes your obession, wait 30 seconds to stand up.) *Perform the penalty twice 
+Violent Robot -- OBSESSION Thoroughness -- *3 times, interrupt the investigator to add detail to a description *Continue to describe something until interrupted *Perform the penalty twice 
+Violent Robot -- OBSESSION Conflict -- *Describe 3 verbal disagreements you've had *Insult the investigator, 2 times *Perform the penalty twice 
+Patient Robot -- VULNERABILITY Familiarity -- *You may not mention any people other than strangers or enemies 
+Patient Robot -- VULNERABILITY Long Term Memory -- *You may not discuss anything that happened before you woke up this morning 
+Patient Robot -- VULNERABILITY Evaluation -- *You may not express opinions *You may only state observable facts
+Human -- You have nothing to hide -- Answer questions to the best of your ability 
+Human -- You have nothing to hide -- Answer questions to the best of your ability 
+Human -- You have nothing to hide -- Answer questions to the best of your ability 
+Human -- You have nothing to hide -- Answer questions to the best of your ability 
+Human -- You have nothing to hide -- Answer questions to the best of your ability 
+Human -- You have nothing to hide -- Answer questions to the best of your ability 
+Violent Robot -- OBESSION Tradition -- *Explain where you got the idea for 3 things you've made up *Guess the inspiration for 2 of the Investigator's questions *Perform the pennalty twice 
+Violent Robot -- OBESSION World-Building -- *Mention the same imagined thing in response to 4 questions *Mention 3 imaginary locations *Perform the penalty twice 
+Violent Robot -- OBESSION Simplicity -- *Give 1-word answers to 3 questions. Don't elaborate until asked *Answer 2 questions nonverbally. Stay silent until prompted *Perform the penalty twice 
+Patient Robot -- VULNERABILITY Visualization -- *You may only mention objects that you can see from where you are sitting 
+Patient Robot -- VULNERABILITY Stability -- *Once the Investigator has mentioned a specific person, place, or thing (other than you), you may no longer mention that thing 
+Patient Robot -- VULNERABILITY Flexibility -- *Once you have mentioned an animal, vegetable, or mineral, you may not mention examples of the other two types of things for the rest of the game
+Human -- You have nothing to hide -- Answer questions to the best of your ability 
+Human -- You have nothing to hide -- Answer questions to the best of your ability 
+Human -- You have nothing to hide -- Answer questions to the best of your ability 
+Human -- You have nothing to hide -- Answer questions to the best of your ability 
+Human -- You have nothing to hide -- Answer questions to the best of your ability 
+Human -- You have nothing to hide -- Answer questions to the best of your ability 
+Violent Robot -- OBESSION Justice -- *Describe how 3 things seem unfair to you *2 times, say what you think should have happened instead *Perform the penalty twice 
+Violent Robot -- OBESSION Blame -- *3 times, blame someone else for something *3 times, blame yourself for something *Perform the penalty twice 
+Violent Robot -- OBESSION Familiarity *Describe deadling with 3 different tragedies the same way *Refer to the same friend or family member 4 times *Perform the penalty twice 
+Patient Robot -- VULNERABILITY Consideration -- *You may not say the words "think", "thought", "feel", or "felt" 
+Patient Robot -- VULNERABILITY Emotional Vocabulary -- *You must describe emotions only using physical descriptions (like 'crying' or 'sweaty palms') rather than names (like 'sad' or 'nervous') 
+Patient Robot -- VULNERABILITY Acceptance -- *You may only describe good consequences, and you must take credit for them 
+Human -- You have nothing to hide -- Answer questions to the best of your ability 
+Human -- You have nothing to hide -- Answer questions to the best of your ability 
+Human -- You have nothing to hide -- Answer questions to the best of your ability 
+Human -- You have nothing to hide -- Answer questions to the best of your ability 
+Human -- You have nothing to hide -- Answer questions to the best of your ability 
+Human -- You have nothing to hide -- Answer questions to the best of your ability
+Violent Robot -- OBESSION Precedent -- *Tell an anecdote about someone else in response to 3 questions *Mention how you solved 2 problems the last time they arose *Perform the penalty twice 
+Violent Robot -- OBESSION Persistence -- *Describe attempting the same solution in 3 scenarios *Attempt 3 very similar solutions to the same problem *Perform the penalty twice 
+Violent Robot -- OBESSION Backstory -- *Establish how you got into 3 hypothetical situations *Reveal 2 things that qualify you to solve a given problem *Perform the penalty twice 
+Patient Robot -- VULNERABILITY Complexity -- *Any problem you solve, you must solve in two steps or less 
+Patient Robot -- VULNERABILITY Simplicity -- *You may not describe yourself accomplishing a goal with fewer than three steps 
+Patient Robot -- VULNERABILITY Activity -- *You may not describe yourself taking any physical action. You may use the hypothetical "you" 
+Patient Robot -- VULNERABILITY Improvisation -- *You may not describe any solution that is unrelated to your Suspect Note 
